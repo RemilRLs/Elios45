@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Elios</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Elios45&label=Profile%20views&color=0e75b6&style=flat" alt="Elios45" /> </p>
 
+- - 👨‍💻 I am passionate about **IT** and **cyber security**
 - - 🌱 I’m currently learning **C, C++**
 - - 📫 How to reach me **Elios#2936**
 
